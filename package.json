@@ -5,6 +5,7 @@
   "description": "a simple Svelte app to edit images using CSS",
   "version": "0.0.1",
   "type": "module",
+  "repository": "https://github.com/Abachouch/css-image-editor.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
