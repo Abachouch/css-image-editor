@@ -1,0 +1,20 @@
+{
+  "name": "css-image-editor",
+  "author": "youssouf.abachouch",
+  "private": false,
+  "description": "a simple Svelte app to edit images using CSS",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npx gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "gh-pages": "^4.0.0",
+    "svelte": "^3.49.0",
+    "vite": "^3.0.0"
+  }
+}
